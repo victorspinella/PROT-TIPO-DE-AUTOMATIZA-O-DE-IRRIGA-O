@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "rootarduino",
+    "password": "quemsoueu",
+    "database": "tccarduino",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  }
+}
